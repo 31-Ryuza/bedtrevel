@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "hotel": "Kenangan Resort",
+    "title": "Superior Duble",
+    "alamat": "Jln kedungwringin patikraja",
+    "harga": "Rp 250.000",
+    "deskripsi": "",
+    "fasilitas": ["AC", "Restaurant", "Swimming Pool", "WIFI"]
+}
